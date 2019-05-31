@@ -1,0 +1,17 @@
+Polar plot data for cell 20140616RandomR3
+(displayed after running Breath_Angle_Rand_June2015 and polar_plot1):
+
+Control_directivity =
+       5.0271
+Evoked_directivity =
+       4.5279
+For response: ********************************
+The angle of the centroid is 0.71617
+magnitude of the centroid is 13.7576
+average polar radius is 19.6132
+magnitude of the centroid/average polar radii is 0.70145
+For control: ********************************
+The angle of the centroid is 0.79435
+magnitude of the centroid is 11.5989
+average polar radius is 14.175
+magnitude of the centroid/average polar radii is 0.81826
